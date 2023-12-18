@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
-import Details from "../../components/OrderDetails/Details";
+import Details2 from "../../components/OrderDetails/Details";
 import NavRouter from "../../components/utily/NavRouter";
 
 const OrderDetails = () => {
@@ -10,7 +10,7 @@ const OrderDetails = () => {
         <NavRouter text="Details" />
       </div>
       <div>
-        <Details />
+        <Details2 />
       </div>
     </div>
   );
