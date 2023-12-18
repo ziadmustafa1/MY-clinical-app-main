@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
 import NavRouter from '../../components/utily/NavRouter'
-import Cart from '../../components/Cart/Cart'
+import Cart from '@/components/Cart/Cart'
 import NavBarBtn from '@/components/utily/NavBarBtn'
 const CartPage = () => {
   return (
