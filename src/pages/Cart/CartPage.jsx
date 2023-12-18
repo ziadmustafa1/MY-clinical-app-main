@@ -2,7 +2,7 @@
 import React from 'react'
 import NavRouter from '../../components/utily/NavRouter'
 import Cart from '../../components/Cart/Cart'
-import NavBarBtn from '@/components/utily/NavBarBtn'
+import NavBarBtn from '../../components/utily/NavBarBtn'
 const CartPage = () => {
   return (
     <div className='bg-white h-screen'>
