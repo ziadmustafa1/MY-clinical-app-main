@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
-import Profile from '../../components/profile/profile'
+import Profile from '../../components/profile/Profile'
 import NavRouter from '../../components/utily/NavRouter'
 
 const ProfilePage = () => {
