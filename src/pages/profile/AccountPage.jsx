@@ -2,7 +2,7 @@
 import React from 'react'
 import NavRouter from '../../components/utily/NavRouter'
 import Account from '../../components/profile/Account'
-import NavbarBtn from '../../components/utily/NavbarBtn'
+import NavbarBtn from '../../components/utily/NavBarBtn'
 
 const AccountPage = () => {
   return (
