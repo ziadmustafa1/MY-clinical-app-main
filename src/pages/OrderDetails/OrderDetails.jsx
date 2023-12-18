@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
-import Details from "../../components/OrderDetails/Details";
+import Details from "@/components/OrderDetails/Details";
 import NavRouter from "../../components/utily/NavRouter";
 
 const OrderDetails = () => {
